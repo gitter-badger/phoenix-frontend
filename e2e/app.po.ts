@@ -4,6 +4,6 @@ export class PhoenixFrontendPage {
   }
 
   getParagraphText() {
-    return element(by.css('phoenix-frontend-app p')).getText();
+    return element(by.css('phoenix-frontend-app h1')).getText();
   }
 }
