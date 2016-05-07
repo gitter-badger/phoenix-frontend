@@ -1,2 +1,2 @@
 export {environment} from './environment';
-export {PhoenixFrontendAppComponent} from './phoenix-frontend.component';
+export {PhoenixAppComponent} from './phoenix.component';
